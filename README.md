@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing scalable web applications with React and Node.js.<br>🌱 I’m currently learning machine learning, cloud computing, and Docker.<br>⚡ Fun fact: I sometimes add easter eggs to my web applications.
+🔭 I’m currently working on developing scalable web applications with React and Node.js.<br>🌱 I’m currently learning machine learning, cloud computing, and Docker.
 
 
 ## 🌐 Socials:
